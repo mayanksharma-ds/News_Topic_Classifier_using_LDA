@@ -36,4 +36,3 @@ Latent Dirichlet Allocation is a probabilistic model that assumes:
 - Each topic contains multiple words
 - It discovers hidden topic patterns
 
-### Mathematical intuition:
