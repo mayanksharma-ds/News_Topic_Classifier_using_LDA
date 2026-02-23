@@ -28,11 +28,5 @@ This application analyzes the **BBC News Dataset** and extracts meaningful topic
 
 ---
 
-# 🧬 What is LDA?
 
-Latent Dirichlet Allocation is a probabilistic model that assumes:
-
-- Each document contains multiple topics
-- Each topic contains multiple words
-- It discovers hidden topic patterns
 
